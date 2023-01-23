@@ -24,3 +24,5 @@ sur la page du projet.
 - `bin/composer install`
 
 - `php -S localhost:8080`
+
+Après l'installation, accédez à l'application en ouvrant http://localhost:8080 dans votre navigateur.
