@@ -17,7 +17,7 @@ sur la page du projet.
 ### Avec Make
 
 - `make install` pour installer les dépendances
-- `make run` pour lancer le serveur
+- `make start` pour lancer le serveur
 
 ### Sans Make
 
